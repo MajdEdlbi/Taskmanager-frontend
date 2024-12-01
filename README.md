@@ -12,6 +12,12 @@ To install all dependencies required for the front end
 
 Run the backend to work with frontend properly
 
+## Backend
+
+Run the backend file to work properly with the frontend
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
